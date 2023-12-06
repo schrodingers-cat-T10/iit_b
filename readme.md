@@ -49,7 +49,7 @@ Unlock premium features, enjoy an ad-free experience, and receive insightful ana
 
 ## Tech stack 
 - map tool
-- flutter
+- react native
 - langchain 
 - openai
 - wikipedia
