@@ -16,3 +16,11 @@
 
 
 ## Tech stack 
+- map tool
+- flutter
+- langchain 
+- openai
+- wikipedia
+- serp API
+- mongoDB
+- firebase
