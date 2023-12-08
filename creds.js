@@ -1,0 +1,4 @@
+hereCreds = {
+    JSKEY: "",
+    RESTKEY:""
+}
