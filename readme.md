@@ -43,8 +43,6 @@ Unlock premium features, enjoy an ad-free experience, and receive insightful ana
 - Nearby places and its historical information
 - Offers guided tours
 
-## Example UI
-![Alt text](<Screenshot 2023-11-02 095007.png>)
 
 
 ## Tech stack 
