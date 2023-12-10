@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
-import 'package:here_sdk/core.dart';
-import 'package:here_sdk/mapview.dart';
+import 'package:here_sdk/core.dart' as HereCore;
+import 'package:here_sdk/mapview.dart' as HereMap;
 
 void main() {
   runApp(MyApp());
@@ -49,8 +49,6 @@ class LoginPage extends StatelessWidget {
             SizedBox(height: 16),
             ElevatedButton(
               onPressed: () {
-                // Perform login logic here (not implemented in this example)
-                // For simplicity, let's navigate to the map page after pressing the login button.
                 Navigator.pushReplacement(
                   context,
                   MaterialPageRoute(builder: (context) => BottomNavigation()),
@@ -211,10 +209,26 @@ class _MapPageState extends State<MapPage> {
     );
   }
 
-  void _onMapCreated(HereMapController hereMapController) {
-    // TODO: Implement map initialization and customization here
+
+
+class _MapPageState extends State<MapPage> {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: HereMap(
+        onMapCreated: _onMapCreated,
+      ),
+    );
   }
-}
+
+  void _onMapCreated(HereMap.HereMapController hereMapController) {
+    
+    hereMapController.mapScene.loadSceneForMapScheme(HereMap.MapScheme.normalDay);
+
+  
+    HereMap.MapMarker mapMarker = HereMap.MapMarker(HereCore.GeoCoordinates(52.520008, 13.404954), HereMap.MapMarkerImage.withFilePathAndSize('assets/pin.png', 30, 30));
+    hereMapController.mapScene.addMapMarker(mapMarker);
+  }
 
 class UserProfilePage extends StatelessWidget {
   @override
