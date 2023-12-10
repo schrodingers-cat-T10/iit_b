@@ -1,4 +1,0 @@
-hereCreds = {
-    JSKEY: "",
-    RESTKEY:""
-}
