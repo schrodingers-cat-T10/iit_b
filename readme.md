@@ -46,11 +46,10 @@ Unlock premium features, enjoy an ad-free experience, and receive insightful ana
 
 
 ## Tech stack 
-- map tool
-- react native
-- langchain 
+- Flutter
 - openai
 - wikipedia
+- HERE sdk 
 - serp API
 - mongoDB
-- firebase
+
