@@ -47,6 +47,7 @@ Unlock premium features, enjoy an ad-free experience, and receive insightful ana
 
 ## Tech stack 
 - Flutter
+- Flask
 - openai
 - wikipedia
 - HERE sdk 
