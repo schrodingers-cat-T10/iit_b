@@ -52,5 +52,5 @@ Unlock premium features, enjoy an ad-free experience, and receive insightful ana
 - wikipedia
 - HERE sdk 
 - serp API
-- mongoDB
+- SQLAlchemy
 
