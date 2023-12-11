@@ -37,6 +37,18 @@ Receive real-time weather updates, access public transportation information, and
 💡 **Monetization and Analytics:**
 Unlock premium features, enjoy an ad-free experience, and receive insightful analytics based on user feedback. Your journey with CityDiscover is not just exploration; it's an evolving adventure.
 
+## UI
+
+![WhatsApp Image 2023-12-10 at 21 48 24_225609c7](https://github.com/helloworld2j/iit_b/assets/119477908/e606d25e-a44b-47c6-9e1b-6c013a01cfa1)
+
+![WhatsApp Image 2023-12-10 at 21 48 44_f0680e5d](https://github.com/helloworld2j/iit_b/assets/119477908/9228a2a5-6b24-481f-a221-97329501482c)
+
+![WhatsApp Image 2023-12-10 at 21 53 00_80f085a0](https://github.com/helloworld2j/iit_b/assets/119477908/d2ef71c3-ed22-47bc-b260-e649c3800fe4)
+
+![image](https://github.com/helloworld2j/iit_b/assets/119477908/1505fa24-fefd-4628-a5b9-cf426e50eda3)
+
+![WhatsApp Image 2023-12-10 at 21 56 25_1872a6e9](https://github.com/helloworld2j/iit_b/assets/119477908/1993e715-fdca-478e-9e02-b8006ef83df0)
+
 
 ### " For your information , youre kindly requested to use your own HERE plugin , chatgpt api key as it is confidential to share with. "
 
