@@ -37,7 +37,7 @@ Receive real-time weather updates, access public transportation information, and
 💡 **Monetization and Analytics:**
 Unlock premium features, enjoy an ad-free experience, and receive insightful analytics based on user feedback. Your journey with CityDiscover is not just exploration; it's an evolving adventure.
 
-## UI
+## App screenshots 
 
 ![WhatsApp Image 2023-12-11 at 09 19 17_a49acffd](https://github.com/helloworld2j/iit_b/assets/119477908/5f882316-2208-412f-a9e1-3d2c8190191a)
 
