@@ -1,6 +1,6 @@
 # Your tourism agent
 
-**Problem statement**
+**Problem statement**:
 Tourism and City Exploration App: Design a mobile app using HERE Location
 Services and Mobile SDKs that offers guided tours, historical information, and
 interactive maps for tourists exploring a city.
