@@ -45,7 +45,7 @@ Unlock premium features, enjoy an ad-free experience, and receive insightful ana
 ![WhatsApp Image 2023-12-11 at 09 20 37_65f01ea0](https://github.com/helloworld2j/iit_b/assets/119477908/a599d40b-7b22-4ec7-8ce2-12873ce76d9b)
 
 
-![WhatsApp Image 2023-12-11 at 09 53 53_8f416698](https://github.com/helloworld2j/iit_b/assets/119477908/9a59cf41-5818-4e0e-8358-7cb55f6d8cbe)
+
 
 ## desktop version 
 
